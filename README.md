@@ -93,24 +93,20 @@ Our project aims to help make the process of purchasing oil less steps for consu
    ```sh
    pip install Flask-Bootstrap
    ```
-8. Install Pillow
-   ```sh
-   pip install pillow
-   ```
-9. Install numpy
+8. Install numpy
     ```sh
     pip install numpy
     ```
-10. Clone the repo
+9. Clone the repo
    ```sh
    git clone https://github.com/Barl0s4/CST205-Final-Project.git
    ```
-11. Enter your API in `FinalWebsite.py`
+10. Enter your API in `FinalWebsite.py`
    ```js
    api_key = 'Enter API Key'
    ```
-12. For bootstrap to work, create a file in your repository called "templates" and store index.html inside.
-13. Create a folder called "static", a folder called "images" inside that, and store the USA image inside that folder.
+11. For bootstrap to work, create a file in your repository called "templates" and store index.html inside.
+12. Create a folder called "static", a folder called "images" inside that, and store the USA image inside that folder.
 <img width="478" alt="example" src="https://github.com/sezavala/CST205-Final-Project/assets/106635253/d85afe43-ac28-4ca1-914b-f801d8ab283f">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
