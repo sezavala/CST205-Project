@@ -107,8 +107,7 @@ Our project aims to help make the process of purchasing oil less steps for consu
    ```
 11. For bootstrap to work, create a file in your repository called "templates" and store index.html inside.
 12. Create a folder called "static", a folder called "images" inside that, and store the USA image inside that folder.
-<img width="478" alt="example" src="https://github.com/sezavala/CST205-Final-Project/assets/106635253/d85afe43-ac28-4ca1-914b-f801d8ab283f">
-
+<a href="https://imgur.com/0V0paPF"><img src="https://i.imgur.com/0V0paPF.png" title="source: imgur.com" /></a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
